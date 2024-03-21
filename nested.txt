@@ -1,0 +1,23 @@
+import java.util.Scanner;
+class nested
+{
+ Scanner sc=new Scanner(system.in)
+ System.out.println("enter the favourite vegetable");
+ string veg=nextline();
+ if(veg.equals("indica"))
+ {
+  System.out.println("u entered a good one");
+  System.out.println("enter"+veg+"scientific name");
+  string scientificname=sc.nextline;
+ }
+ if(scientificname.equals("indica"))
+ {
+  System.out.println("you are intelligent");
+ }
+ else
+ {
+  System.out.println("veg");
+ }
+ sc close();
+}
+

@@ -1,0 +1,7 @@
+class Rahul
+{
+ public static void main(String args[])
+ {
+  System.out.ptintln("welcome to java world dear boss");
+ }
+}
